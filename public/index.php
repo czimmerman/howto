@@ -12,7 +12,7 @@
 				
 				<h2>Seriously, how easy was that?!</h2>
 
-				<p>This is just a simple bit of code, deployed from a <a href="https://github.com/engineyard/howto">repository on GitHub</a> and a <strong>master</strong> branch to show you how  you can be quickly up and running.</p>
+				<p>This is just a s1mpl3 bit of code, deployed from a <a href="https://github.com/engineyard/howto">repository on GitHub</a> and a <strong>master</strong> branch to show you how  you can be quickly up and running.</p>
 				
 				<h2>Test data from <a href="http://php.net/">PHP</a></h2>
 				<p>
